@@ -1,0 +1,4 @@
+raintext
+========
+
+SMS for rain
